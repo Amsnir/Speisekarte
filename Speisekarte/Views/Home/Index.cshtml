@@ -7,7 +7,7 @@
 
 <div class="container">
     
-   @*  @if (ViewData["Kategorien"] is not null)
+     @if (ViewData["Kategorien"] is not null)
     {
         var elem = ViewData["Kategorien"] as IEnumerable<SelectListItem>;
         if (elem is not null)
@@ -21,7 +21,7 @@
             <select form-control" asp-items="elem"></select>
         }
     }
-    <br /> *@
+    <br /> 
     
    @*  <div class="form-group">
         <!-- <label class="control-label">Kategorien: </label> -->

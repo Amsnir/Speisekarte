@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\views\\home\\addzutatform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\views\\home\\addzutatform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\views\\home\\createspeiseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\views\\home\\createspeiseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\models\\speise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\models\\speise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\models\\topspeisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\models\\topspeisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\models\\zutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\models\\zutat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|c:\\users\\iamir\\onedrive\\documents\\github\\speisekarte\\speisekarte\\migrations\\20240221070241_newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EB7AFB-1833-4D29-A33A-B2D9B26CE29C}|Speisekarte\\Speisekarte.csproj|solutionrelative:speisekarte\\migrations\\20240221070241_newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Speisekarte\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopSpeiseDto.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\TopSpeiseDto.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Models\\TopSpeiseDto.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\TopSpeiseDto.cs",
+              "RelativeToolTip": "Speisekarte\\Models\\TopSpeiseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zutat.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\Zutat.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Models\\Zutat.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\Zutat.cs",
+              "RelativeToolTip": "Speisekarte\\Models\\Zutat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Speise.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\Speise.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Models\\Speise.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Models\\Speise.cs",
+              "RelativeToolTip": "Speisekarte\\Models\\Speise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddZutatForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\AddZutatForm.cshtml",
+              "RelativeDocumentMoniker": "Speisekarte\\Views\\Home\\AddZutatForm.cshtml",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\AddZutatForm.cshtml",
+              "RelativeToolTip": "Speisekarte\\Views\\Home\\AddZutatForm.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:42:13.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSpeiseForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\CreateSpeiseForm.cshtml",
+              "RelativeDocumentMoniker": "Speisekarte\\Views\\Home\\CreateSpeiseForm.cshtml",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\CreateSpeiseForm.cshtml",
+              "RelativeToolTip": "Speisekarte\\Views\\Home\\CreateSpeiseForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:42:13.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Speisekarte\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Speisekarte\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAG8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:42:13.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Speisekarte\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAUwE4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240221070241_NewUser.cs",
+              "DocumentMoniker": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Migrations\\20240221070241_NewUser.cs",
+              "RelativeDocumentMoniker": "Speisekarte\\Migrations\\20240221070241_NewUser.cs",
+              "ToolTip": "C:\\Users\\iamir\\OneDrive\\Documents\\GitHub\\Speisekarte\\Speisekarte\\Migrations\\20240221070241_NewUser.cs",
+              "RelativeToolTip": "Speisekarte\\Migrations\\20240221070241_NewUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:42:13.929Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
